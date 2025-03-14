@@ -14,6 +14,7 @@ wine+quality/
 │── winequality.names          # Description of dataset features and attributes
 │── README.md                  # Project overview and documentation
 │── decision_tree.ipynb        # Jupyter Notebook for decision tree model implementation
-│── index.ipynb                # Jupyter Notebook for random forest model implementation
+│── random_forest.ipynb        # Jupyter Notebook for random forest model implementation
+│── svm.ipynb                  # Jupyter Notebook for svm model implementation
 ```
 
