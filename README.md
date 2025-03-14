@@ -8,13 +8,15 @@ Wine quality assessment is traditionally conducted through sensory evaluation by
 
 ## Project Structure
 ```
+│── README.md                  # Project overview and documentation
+│── preprocessing.ipynb        # Jupyter Notebook for preprocessing
+│── decision_tree.ipynb        # Jupyter Notebook for decision tree model implementation
+│── random_forest.ipynb        # Jupyter Notebook for random forest model implementation
+│── SVM_GH.ipynb                  # Jupyter Notebook for svm model implementation
 wine+quality/
 │── winequality-red.csv        # Dataset containing red wine quality data
 │── winequality-white.csv      # Dataset containing white wine quality data
 │── winequality.names          # Description of dataset features and attributes
-│── README.md                  # Project overview and documentation
-│── decision_tree.ipynb        # Jupyter Notebook for decision tree model implementation
-│── random_forest.ipynb        # Jupyter Notebook for random forest model implementation
-│── svm.ipynb                  # Jupyter Notebook for svm model implementation
+
 ```
 
